@@ -1,0 +1,40 @@
+2024-05-07 11:18:31 INFO Total orders read from CSV: 1000
+2024-05-07 11:18:31 INFO Total orders inserted into database: 1000
+2024-05-07 11:18:31 INFO Total orders with discount: 920
+2024-05-07 11:18:31 INFO Total orders without discount: 80
+2024-05-07 11:21:14 INFO Total orders read from CSV: 1000
+2024-05-07 11:21:14 INFO Total orders inserted into database: 1000
+2024-05-07 11:21:14 INFO Total orders with discount: 920
+2024-05-07 11:21:14 INFO Total orders without discount: 80
+2024-05-07 11:22:43 INFO Total orders read from CSV: 1000
+2024-05-07 11:22:43 INFO Total orders inserted into database: 1000
+2024-05-07 11:22:43 INFO Total orders with discount: 920
+2024-05-07 11:22:43 INFO Total orders without discount: 80
+2024-05-07 12:25:10 INFO Total orders read from CSV: 1000
+2024-05-07 12:25:10 INFO Total orders inserted into database: 1000
+2024-05-07 12:25:10 INFO Total orders with discount: 920
+2024-05-07 12:25:10 INFO Total orders without discount: 80
+2024-05-09 14:29:32 INFO Total orders read from CSV: 1000
+2024-05-09 14:29:33 INFO Total orders inserted into database: 1000
+2024-05-09 14:29:33 INFO Total orders with discount: 920
+2024-05-09 14:29:33 INFO Total orders without discount: 80
+2024-05-13 10:11:15 INFO Total orders read from CSV: 1000
+2024-05-13 10:11:15 INFO Total orders inserted into database: 1000
+2024-05-13 10:11:15 INFO Total orders with discount: 920
+2024-05-13 10:11:15 INFO Total orders without discount: 80
+2024-05-13 10:11:56 INFO Total orders read from CSV: 1000
+2024-05-13 10:11:56 INFO Total orders inserted into database: 1000
+2024-05-13 10:11:56 INFO Total orders with discount: 920
+2024-05-13 10:11:56 INFO Total orders without discount: 80
+2024-05-13 10:12:23 INFO Total orders read from CSV: 1000
+2024-05-13 10:12:23 INFO Total orders inserted into database: 1000
+2024-05-13 10:12:23 INFO Total orders with discount: 920
+2024-05-13 10:12:23 INFO Total orders without discount: 80
+2024-05-13 10:18:32 INFO Total orders read from CSV: 1000
+2024-05-13 10:18:32 INFO Total orders inserted into database: 1000
+2024-05-13 10:18:32 INFO Total orders with discount: 920
+2024-05-13 10:18:32 INFO Total orders without discount: 80
+2024-05-13 10:22:46 INFO Total orders read from CSV: 1000
+2024-05-13 10:22:46 INFO Total orders inserted into database: 1000
+2024-05-13 10:22:46 INFO Total orders with discount: 920
+2024-05-13 10:22:46 INFO Total orders without discount: 80
